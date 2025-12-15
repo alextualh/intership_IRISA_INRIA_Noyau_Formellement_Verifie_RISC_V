@@ -1,0 +1,2 @@
+# intership_IRISA_INRIA_Noyau_Formellement_V-rifi-_RISC_V
+Durant l'été 2025 j'ai eu la chance d'effectuer un stage au sein de l'équipe Epicure de l'IRISA de Rennes, spécialisée en Méthodes Formelles. Encadré par Sandrine Blazy et Clément Chavanon, j'ai développé un micro noyau dans un langage expérimental proche de Rocq et d'Ocaml, permettant une nouvelle stratégie de vérification formelle de celui ci. 
